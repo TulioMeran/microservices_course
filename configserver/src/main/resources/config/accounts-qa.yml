@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Tulio Meran - QA"
+    email: "rtulio007qa@gmail.com"
+  onCallSupport:
+    - 829 446-2986
+    - 809 590-3668

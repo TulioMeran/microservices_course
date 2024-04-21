@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs"
+  contactDetails:
+    name: "Tulio Meran - PROD"
+    email: "rtulio007prod@gmail.com"
+  onCallSupport:
+    - 829 446-2986
+    - 809 590-3668
